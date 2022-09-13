@@ -11,9 +11,9 @@ I'm from Poland, living in Cracow 🐲
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=Csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/|-WPF-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/|-EntityFramework-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/|-ASP.NET-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/|-WPF-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/|-EntityFramework-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/|-ASP.NET-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 
 <!--
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
