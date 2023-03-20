@@ -1,5 +1,5 @@
 
-# Hello there!👋
+# Hello there! 😄
 
 My name is <b>Jakub Augustyn</b> and I'm a C# developer. 
 I'm from Poland, living in Cracow 🐲
