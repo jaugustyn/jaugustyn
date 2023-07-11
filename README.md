@@ -18,10 +18,10 @@ I'm from Poland, living in Cracow 🐲
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=109818)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=109818)
 ![](https://img.shields.io/badge/Tools-MSSQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=109818)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=109818)
 
 ## 🔨 In progress:
 ![](https://img.shields.io/badge/Tools-CI/CD-informational?style=flat&logo=gitlab&logoColor=white&color=109818)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=109818)
 ![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=RabbitMQ&logoColor=white&color=109818)
 ![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=Nginx&logoColor=white&color=109818)
 
