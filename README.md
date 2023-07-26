@@ -24,6 +24,7 @@ I'm from Poland, living in Cracow 🐲
 ![](https://img.shields.io/badge/Tools-CI/CD-informational?style=flat&logo=gitlab&logoColor=white&color=109818)
 ![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=RabbitMQ&logoColor=white&color=109818)
 ![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=Nginx&logoColor=white&color=109818)
+![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=React&logoColor=white&color=109818)
 
 ## 📮 Connect with me
 <a href="https://www.linkedin.com/in/jakubaugustyn/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="JakubAugustyn" height="22" width="22" /></a>
