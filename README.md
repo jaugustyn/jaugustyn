@@ -2,7 +2,7 @@
 # Hello there!😃
 
 My name is <b>Jakub Augustyn</b> and I'm a C# developer. 
-I'm from Poland, living in Cracow 🐲
+I'm from Poland, living in Krakow 🐲
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=109818)
